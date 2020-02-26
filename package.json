@@ -1,0 +1,20 @@
+{
+  "name": "jquery-percentwithinviewport",
+  "version": "1.0.0",
+  "description": "jquery-percentwithinviewport ============================",
+  "main": "jquery.vnm.percentWithinViewport.js",
+  "module": "jquery.vnm.percentWithinViewport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekinaggul/jquery-percentwithinviewport.git"
+  },
+  "author": "tekinaggul@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tekinaggul/jquery-percentwithinviewport/issues"
+  },
+  "homepage": "https://github.com/tekinaggul/jquery-percentwithinviewport#readme"
+}
